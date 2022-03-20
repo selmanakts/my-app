@@ -14,28 +14,19 @@ const Contact = () => {
           <img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="alprnkpsz"
+            alt="selmanakts"
             height="30"
             width="40"
           />
         </a>
         <a
-          href="https://linkedin.com/in/alperen-kapusuz-a72a381a5"
+          href="https://www.linkedin.com/in/selman-aktas-6336611a2/"
           target="blank"
         >
           <img
             align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="alperen-kapusuz-a72a381a5"
-            height="30"
-            width="40"
-          />
-        </a>
-        <a href="https://stackoverflow.com/users/15199653" target="blank">
-          <img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-            alt="15199653"
+            alt="selmanakts"
             height="30"
             width="40"
           />
