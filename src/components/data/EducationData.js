@@ -7,7 +7,7 @@ export const EducationData = [
       },
       {
         id: 2,
-        title: "80.Yıl Nuh Çimento Anadolu Lisesi | İstanbul, Türkiye",
+        title: "Bahçeşehir Atatürk Anadolu Lisesi | İstanbul, Türkiye",
         date: "2015 - 2019",
         location: "İstanbul",
       },

@@ -31,19 +31,10 @@ export const ComputerSkillsData = [
     },
     {
         id: 7,
-        skill: "React Native",
-        point: "react"
+        skill: "C",
+        point: "C"
     },
-    {
-        id: 8,
-        skill: "Bootstrap",
-        point: "bootstrap"
-    },
-    {
-        id: 9,
-        skill: "Spring",
-        point: "spring"
-    },
+
 
 
 ]
