@@ -1,0 +1,27 @@
+.areasOfInterest{
+    position: relative;
+    width: 325px;
+    margin: auto;
+    background-color:white; 
+    padding: 10px;
+    margin-top: 10px;
+    border-radius:10px;
+  }
+
+  .areasOfInterest__heading{
+    text-align: center;
+    border-radius:10px;
+  }
+
+  .areasOfInterest__item {  
+    
+    margin-left: 40px; 
+  }
+
+  .areasOfInterest__item__point{
+    background-color:azure;
+    margin-left: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    color: black;
+  } 

@@ -1,0 +1,27 @@
+.grammar{
+    position: relative;
+    width: 307px;
+    margin: auto;
+    background-color:white; 
+    padding: 20px;
+    margin-top: 10px;
+    border-radius:10px;
+  }
+
+  .grammar__heading{
+    text-align: center;
+    border-radius:10px;
+  }
+
+  .grammar__item {  
+    
+    margin-left: 40px; 
+  }
+
+  .grammar__item__point{
+    background-color:azure;
+    margin-left: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    color: black;
+  } 
